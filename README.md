@@ -15,5 +15,6 @@ AGE_CATEGORY – возрастная категория группы пацие
 
 PATIENT_ID_COUNT – кол-во пациентов группе, которая характеризуется вышеперечисленными признаками
 
+
 ![image](https://user-images.githubusercontent.com/91266802/187090404-d7055ada-b5c7-43df-8cf5-da33cc4e66ae.png)
 
